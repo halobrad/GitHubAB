@@ -10,6 +10,7 @@ namespace GithubA
         static void Main(string[] args)
         {
             String get = "hello";
+            string hi = "hi";
 
             
         }
