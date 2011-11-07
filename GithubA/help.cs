@@ -7,6 +7,6 @@ namespace GithubA
 {
     class help
     {
-        string get = "";
+        string get = dgdsfgdfgdfgdfgdfgdfg;
     }
 }
