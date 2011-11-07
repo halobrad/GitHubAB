@@ -9,7 +9,7 @@ namespace GithubA
     {
         static void Main(string[] args)
         {
-            String get = "hello6";
+            String get = "hello67";
             string hi = "hi";
 
 
