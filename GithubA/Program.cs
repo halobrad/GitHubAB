@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,7 +9,7 @@ namespace GithubA
     {
         static void Main(string[] args)
         {
-            String get = "hello5";
+            String get = "hello7";
             string hi = "hi";
 
 
